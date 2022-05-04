@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.example.backend
+web: java -cp target/classes/;target/dependency/* com.example.backend
